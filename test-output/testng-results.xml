@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SmokeTest" duration-ms="26266" started-at="2018-01-29T19:05:06Z" finished-at="2018-01-29T19:05:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26266" started-at="2018-01-29T19:05:06Z" finished-at="2018-01-29T19:05:32Z">
+      <class name="config.TestConfig">
+        <test-method status="PASS" signature="starTest()[pri:0, instance:config.TestConfig@7dc7cbad]" name="starTest" duration-ms="26231" started-at="2018-01-29T13:05:06Z" finished-at="2018-01-29T13:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starTest -->
+      </class> <!-- config.TestConfig -->
+    </test> <!-- Test -->
+  </suite> <!-- SmokeTest -->
+</testng-results>
