@@ -81,7 +81,13 @@ public class TestConfig {
 	ClickEvents.clickAction(driver, locator_type, locator_value);
 	logger.log(LogStatus.INFO, description);
 	logger.log(LogStatus.INFO, logger.addScreenCapture(typeScreenShots.captureScreenShots(driver, "Request a Quote")));
-	} }
+	typeScreenShots.captureScreenShots(driver, "The SCreen Shots");
+	}
+	
+	
+	
+	
+	}
 	report.endTest(logger);
 	report.flush(); }  
 

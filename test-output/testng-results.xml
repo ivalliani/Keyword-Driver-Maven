@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="SmokeTest" duration-ms="26266" started-at="2018-01-29T19:05:06Z" finished-at="2018-01-29T19:05:32Z">
+  <suite name="Default suite" duration-ms="25286" started-at="2018-01-30T20:36:35Z" finished-at="2018-01-30T20:37:01Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="26266" started-at="2018-01-29T19:05:06Z" finished-at="2018-01-29T19:05:32Z">
+    <test name="Default test" duration-ms="25286" started-at="2018-01-30T20:36:35Z" finished-at="2018-01-30T20:37:01Z">
       <class name="config.TestConfig">
-        <test-method status="PASS" signature="starTest()[pri:0, instance:config.TestConfig@7dc7cbad]" name="starTest" duration-ms="26231" started-at="2018-01-29T13:05:06Z" finished-at="2018-01-29T13:05:32Z">
+        <test-method status="PASS" signature="starTest()[pri:0, instance:config.TestConfig@7dc7cbad]" name="starTest" duration-ms="25271" started-at="2018-01-30T14:36:35Z" finished-at="2018-01-30T14:37:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starTest -->
       </class> <!-- config.TestConfig -->
-    </test> <!-- Test -->
-  </suite> <!-- SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
